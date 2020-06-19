@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movemedical_scheduler/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/movemedical_scheduler/static/js/main.125d2f78.chunk.js",
+    "main.js.map": "/movemedical_scheduler/static/js/main.125d2f78.chunk.js.map",
+    "runtime-main.js": "/movemedical_scheduler/static/js/runtime-main.69c17824.js",
+    "runtime-main.js.map": "/movemedical_scheduler/static/js/runtime-main.69c17824.js.map",
+    "static/js/2.1dee597b.chunk.js": "/movemedical_scheduler/static/js/2.1dee597b.chunk.js",
+    "static/js/2.1dee597b.chunk.js.map": "/movemedical_scheduler/static/js/2.1dee597b.chunk.js.map",
+    "index.html": "/movemedical_scheduler/index.html",
+    "precache-manifest.a575efc3b18b5bf596a39ab6e25c7713.js": "/movemedical_scheduler/precache-manifest.a575efc3b18b5bf596a39ab6e25c7713.js",
+    "service-worker.js": "/movemedical_scheduler/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/movemedical_scheduler/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1dee597b.chunk.js.LICENSE.txt": "/movemedical_scheduler/static/js/2.1dee597b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c17824.js",
+    "static/js/2.1dee597b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.125d2f78.chunk.js"
+  ]
+}
