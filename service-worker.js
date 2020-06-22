@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/movemedical_scheduler/precache-manifest.a575efc3b18b5bf596a39ab6e25c7713.js"
+  "/movemedical_scheduler/precache-manifest.25baaf29f7282bd2473c6c446947c733.js"
 );
 
 self.addEventListener('message', (event) => {
